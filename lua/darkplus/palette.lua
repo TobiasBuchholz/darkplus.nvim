@@ -48,6 +48,12 @@ local colors = {
   ui_purple = "#a779ca",
   ui_yellow= "#ffcc77",
   ui_green = "#14C50B",
+  diff_text_fg = "#D7C5AB",
+  diff_text_add = "#70AA6E",
+  diff_text_change = "#B29E7E",
+  diff_text_delete = "#BB4848",
+  diff_bg = "#2E2E2E",
+  diff_text_bg = "#3E3E3E",
 }
 
 return colors
